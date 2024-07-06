@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9bd28cee561d3a4dad6fc9e604622f0, type: 3}
+  m_Name: New
+  m_EditorClassIdentifier: 
+  _info: "\u03A3\u03B5 \u03C0\u03BF\u03B9\u03BF\u03BD \u03BD\u03BF\u03BC\u03CC  \u03B2\u03C1\u03AF\u03C3\u03BA\u03B5\u03C4\u03B1\u03B9
+    \u03B7 \u039B\u03AF\u03BC\u03BD\u03B7 \u0392\u03B9\u03C3\u03C4\u03C9\u03BD\u03AF\u03B4\u03B1;"
+  _answers:
+  - _info: "\u039E\u03AC\u03BD\u03B8\u03B7\u03C2"
+    _isCorrect: 0
+  - _info: "\u03A1\u03BF\u03B4\u03CC\u03C0\u03B7\u03C2"
+    _isCorrect: 0
+  - _info: "\u039A\u03B1\u03B9 \u03C3\u03C4\u03BF\u03C5\u03C2 \u03B4\u03CD\u03BF
+      \u03C0\u03B1\u03C1\u03B1\u03C0\u03AC\u03BD\u03C9"
+    _isCorrect: 1
+  _useTimer: 1
+  _timer: 10
+  _answerType: 1
+  _addScore: 10
