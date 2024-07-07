@@ -8,7 +8,7 @@ The purpose of the game is to explore and learn about the geographical features 
 
 ## Screenshot
 ![](https://github.com/GeorgiaKt/ThraceGeographyGame/blob/main/screenshots/Screenshot_2.png)
-More screenshots can be found in [screenshots folder](https://github.com/GeorgiaKt/ThraceGeographyGame/tree/main/screenshots).
+More screenshots can be found in [screenshots](https://github.com/GeorgiaKt/ThraceGeographyGame/tree/main/screenshots) folder.
 
 <br />
 
