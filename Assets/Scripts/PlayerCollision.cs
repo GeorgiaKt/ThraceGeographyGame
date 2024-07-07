@@ -7,6 +7,7 @@ public class PlayerCollision : MonoBehaviour
 {
     public BoxCollider borderEvros;
     public BoxCollider borderRodopi;
+    public BoxCollider odigies;
     public TMP_Text infoCount;
     public GameObject uiObject;
 
@@ -31,7 +32,7 @@ public class PlayerCollision : MonoBehaviour
         if (boxCollider != null)
         {
             // Check if the collider has already been triggered
-            if ((!triggeredColliders.Contains(boxCollider)) && boxCollider != borderEvros && boxCollider != borderRodopi)
+            if ((!triggeredColliders.Contains(boxCollider)) && boxCollider != borderEvros && boxCollider != borderRodopi && boxCollider != odigies)
             {
                 collisions++;
                 //Debug.Log(collisions);
@@ -56,8 +57,7 @@ public class PlayerCollision : MonoBehaviour
                     infoCount.text = "Πλήθος Πληροφοριών: " + collisions;
                 }
 
-
-            }
+            } 
             
         }
     }

@@ -2727,6 +2727,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   borderEvros: {fileID: 1934429004}
   borderRodopi: {fileID: 1344237439}
+  odigies: {fileID: 196890982}
   infoCount: {fileID: 1801693143}
   uiObject: {fileID: 1157769882}
 --- !u!1 &435027172
@@ -5349,7 +5350,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58e4a8a5ca4382e4789efb40941f265f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetSceneName: quiz
 --- !u!1 &880685971
 GameObject:
   m_ObjectHideFlags: 0
@@ -7224,6 +7224,7 @@ GameObject:
   - component: {fileID: 1221862944}
   - component: {fileID: 1221862943}
   - component: {fileID: 1221862947}
+  - component: {fileID: 1221862948}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -7322,6 +7323,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   uiObject: {fileID: 164546652}
+--- !u!114 &1221862948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1221862942}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 633135951be5d3048a24275141858600, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetSceneName: Quiz
 --- !u!1 &1226380212
 GameObject:
   m_ObjectHideFlags: 0
