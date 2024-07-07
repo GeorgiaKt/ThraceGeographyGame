@@ -6,6 +6,12 @@ The purpose of the game is to explore and learn about the geographical features 
 
 *Executable of the game can be found in the [Build](https://github.com/GeorgiaKt/ThraceGeographyGame/tree/main/Build) folder!*
 
+## Screenshot
+![](https://github.com/GeorgiaKt/ThraceGeographyGame/blob/main/screenshots/Screenshot_2.png)
+More screenshots can be found in [screenshots folder](https://github.com/GeorgiaKt/ThraceGeographyGame/tree/main/screenshots).
+
+<br />
+
 Quiz code used from [QuizGameProject](https://github.com/WatchFindDo/QuizGameProject).
 
 ## Setup Details
