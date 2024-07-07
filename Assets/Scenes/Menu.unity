@@ -724,7 +724,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Geography Game
+  m_text: Thrace Geography Game
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a57ee6282e03b734a93aaeac5a213479, type: 2}
   m_sharedMaterial: {fileID: 8959903987526650001, guid: a57ee6282e03b734a93aaeac5a213479, type: 2}
